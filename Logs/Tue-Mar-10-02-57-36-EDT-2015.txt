@@ -1,0 +1,1 @@
+[AppMngr] Lock file is already locked; Application already running!
